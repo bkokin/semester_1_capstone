@@ -9,4 +9,7 @@
 
 - What Business Problem are we solving??
 
+
 - The 3 Recommendations
+## Data Understanding and Analysis
+
