@@ -1,0 +1,18 @@
+# ignore all files in /data directory
+data/
+
+# ignore each of the files individually as well for flatter storage
+*bom.movie_gross.csv.gz
+*im.db.zip
+*rt.movie_info.tsv.gz
+*rt.reviews.tsv.gz
+*tmdb.movies.csv.gz
+*tn.movie_budgets.csv.gz
+
+*bom.movie_gross.csv
+*im.db
+*im.db.zip
+*rt.movie_info.tsv
+*rt.reviews.tsv
+*tmdb.movies.csv
+*tn.movie_budgets.csv
