@@ -13,3 +13,7 @@
 - The 3 Recommendations
 ## Data Understanding and Analysis
 
+## Statistical Communication
+
+## Conclusion
+
