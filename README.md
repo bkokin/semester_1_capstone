@@ -1,5 +1,12 @@
 # AI CAPSTONE TEAM 4
 
+### Navigating Repository:
+* Exploratory work: contains exploratory data analysis from all members
+* Images: visualization of graphs derived from the analysis
+* Capstone 1: finalized notebook with the analysis
+* README: includes project overview, analysis, and recommendations
+
+
 ## Project Overview
 
 Computing Vision, endeavors to establish its presence in the realm of filmmaking. Tasked with guiding Computer Vision, our project aims to harness the power of exploratory data analysis and statistical methods to unravel the dynamics behind successful movies and translate these revelations into actionable insights.
@@ -39,16 +46,14 @@ Computing Vision recognizes the thriving landscape of original content creation 
  3. Processing: As we progress, we leverage Python's built-in functions and specialized packages to process the refined data.
  4. Analysis: Employing visualization packages such as Matplotlib and Seaborn, we craft vivid representations of our recommendations. 
 
-- Three visualizations (the same visualizations presented in the slides and notebook)
 
-##### Top Genres for Profit Over Production Budget (POPB)
+#### Top Genres for Profit Over Production Budget (POPB)
 ![top_POPB](https://raw.githubusercontent.com/ml-disciple/semester_1_capstone/main/images/top_POPB.svg)
 
-
-##### Median POPB Grouped by Genres
+#### Median POPB Grouped by Genres
 ![median_POPB](https://raw.githubusercontent.com/ml-disciple/semester_1_capstone/main/images/median_POPB.svg)
 
-##### Top Combined Genres Profit 
+#### Top Combined Genres Profit 
 ![top_profitting_genre](https://github.com/ml-disciple/semester_1_capstone/blob/main/images/top_profitting_genre.png)
 
 
