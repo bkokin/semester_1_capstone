@@ -52,8 +52,13 @@ Computing Vision recognizes the thriving landscape of original content creation 
 #### Graph Title 3 Here
 
 ## Statistical Communication
-- Results of statistical inference
-          - Interpretation of these results in the context of the problem
+
+1. Obtaining and analyzing correlation between worldwide profit and production budget
+    * The correlation between worldwide profit and production budget yielded a result of 68%. This is considered a strong positive correlation indicating that as the production budget increases, so does the profit.
+    
+2. Obtaining and interpreting the confidence interval of the top genres 
+    * A confidence interval for the production budget of top movie genres was computed with a confidence level of 95%. The confidence interval resulted in bounds of $42774346.53 and $47899452.12.
+    * This indicates that we can be 95% confident that the true mean of the top profiting movie genres is contained within the range of $42774346.53 and $47899452.12.
 
 ## Conclusion
 
