@@ -41,15 +41,16 @@ Computing Vision recognizes the thriving landscape of original content creation 
 
 - Three visualizations (the same visualizations presented in the slides and notebook)
 
-##### Best Return on Production Budget by Combined Genres
-![return_on genre](https://github.com/ml-disciple/semester_1_capstone/blob/main/images/return_on%20genre.png)
+##### Top Genres for Profit Over Production Budget (POPB)
+![top_POPB](https://raw.githubusercontent.com/ml-disciple/semester_1_capstone/main/images/top_POPB.svg)
 
 
-#### Graph Title 2 Here
+##### Median POPB Grouped by Genres
+![median_POPB](https://raw.githubusercontent.com/ml-disciple/semester_1_capstone/main/images/median_POPB.svg)
 
-![top_profiting_genre](https://github.com/ml-disciple/semester_1_capstone/blob/main/images/top_profitting_genre.png)
+##### Top Combined Genres Profit 
+![top_profitting_genre](https://github.com/ml-disciple/semester_1_capstone/blob/main/images/top_profitting_genre.png)
 
-#### Graph Title 3 Here
 
 ## Statistical Communication
 
@@ -65,8 +66,8 @@ Computing Vision recognizes the thriving landscape of original content creation 
 **Our data-driven analysis has yielded three key recommendations that will steer Computer Vision's new movie studio toward successful and informed decision-making:**
 
 1. Maximizing Return on Production:
-   * Recommendation: Consider producing movies in the Horror & Thriller genres.
-   * Rationale: These genres have yielded substantial returns on production investments.
+  * Recommendation: Consider producing movies in the Horror & Thriller genres.
+  * Rationale: These genres have yielded substantial returns on production investments.
 
 2. Achieving Overall Best Profitability:
   * Recommendation: Prioritize the creation of movies in the Action & Adventure genres.
