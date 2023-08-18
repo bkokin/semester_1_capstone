@@ -1,10 +1,11 @@
 # AI CAPSTONE TEAM 4
 
 ### Navigating Repository:
-* Exploratory work: contains exploratory data analysis from all members
-* Images: visualization of graphs derived from the analysis
-* Capstone 1: finalized notebook with the analysis
-* README: includes project overview, analysis, and recommendations
+* Exploratory work: Contains exploratory data analysis from all members
+* Images: Visualization of graphs derived from the analysis
+* Capstone 1: Finalized notebook with the analysis
+* README: Includes project overview, analysis, and recommendations
+* [Presentation:](https://github.com/ml-disciple/semester_1_capstone/blob/main/Presentation.pdf) Includes final PowerPoint presentation
 
 
 ## Project Overview
@@ -28,7 +29,6 @@ Computing Vision recognizes the thriving landscape of original content creation 
 * [IMDB](https://www.imdb.com/)
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
-* ![presentation_slide](https://github.com/ml-disciple/semester_1_capstone/blob/main/Presentation.pdf)
 
  1.Internet Movie Database (IMDB)
   -The IMDB houses an expansive repository of titles, encompassing films, TV series, video games, and streaming content. The SQL dataset encompasses facets ranging from directors and writers to ratings and movie specifics, including runtime and actors. 
@@ -88,11 +88,6 @@ Computing Vision recognizes the thriving landscape of original content creation 
 #### Summary
 
 In summary, our endeavor has strategically positioned Computing Vision for a successful entry into the competitive film industry. We have unraveled key patterns and preferences that pave the way for informed decision-making. The culmination of our efforts is encapsulated in three actionable recommendations: focusing on Horror & Thriller genres to maximize returns on production investment, prioritizing Action & Adventure genres for overall best profitability, and adhering to a production budget range of $149,880,980.81 to $168,523,019.19. With these insights in hand, Computing Vision is well-prepared to embark on a successful journey and thrive in the market. 
-
-
-#### Presentation Slide
-
-![presentation_slide](https://github.com/ml-disciple/semester_1_capstone/blob/main/Presentation.pdf)
 
 
 
