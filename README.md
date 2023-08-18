@@ -91,8 +91,8 @@ In summary, our endeavor has strategically positioned Computing Vision for a suc
 
 
 #### Presentation Slide
- 
-<object data="/Presentation.pdf" type="application/pdf" width="100%"> </object>
+
+<object data="/ml-disciple/semester_1_capstone/blob/main/Presentation.pdf" type="application/pdf" width="100%"> </object>
 
 
 
