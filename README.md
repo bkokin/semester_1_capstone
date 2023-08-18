@@ -92,7 +92,7 @@ In summary, our endeavor has strategically positioned Computing Vision for a suc
 
 #### Presentation Slide
 
-<object data="/ml-disciple/semester_1_capstone/blob/main/Presentation.pdf" type="application/pdf" width="100%"> </object>
+![presentation_slide] (https://github.com/ml-disciple/semester_1_capstone/blob/main/Presentation.pdf)
 
 
 
