@@ -81,13 +81,13 @@ Computing Vision recognizes the thriving landscape of original content creation 
   * Rationale: Exhibits the potential to generate the highest overall profits.
 
 3. Optimal Production Budget Strategy: 
-  * Recommendation: Maintain production budgets within the range of $428 million to $479 million. 
+  * Recommendation: Maintain production budgets within the range of $149880980.81 to $168523019.19. 
   * Rationale: The budget range balances investment in quality production with ensuring favorable returns. 
 
 
 #### Summary
 
-In summary, our endeavor has strategically positioned Computing Vision for a successful entry into the competitive film industry. We have unraveled key patterns and preferences that pave the way for informed decision-making. The culmination of our efforts is encapsulated in three actionable recommendations: focusing on Horror & Thriller genres to maximize returns on production investment, prioritizing Action & Adventure genres for overall best profitability, and adhering to a production budget range of $428 million to $479 million. With these insights in hand, Computing Vision is well-prepared to embark on a successful journey and thrive in the market. 
+In summary, our endeavor has strategically positioned Computing Vision for a successful entry into the competitive film industry. We have unraveled key patterns and preferences that pave the way for informed decision-making. The culmination of our efforts is encapsulated in three actionable recommendations: focusing on Horror & Thriller genres to maximize returns on production investment, prioritizing Action & Adventure genres for overall best profitability, and adhering to a production budget range of $149880980.81 to $168523019.19. With these insights in hand, Computing Vision is well-prepared to embark on a successful journey and thrive in the market. 
 
 
 
