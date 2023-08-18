@@ -90,7 +90,7 @@ Computing Vision recognizes the thriving landscape of original content creation 
 In summary, our endeavor has strategically positioned Computing Vision for a successful entry into the competitive film industry. We have unraveled key patterns and preferences that pave the way for informed decision-making. The culmination of our efforts is encapsulated in three actionable recommendations: focusing on Horror & Thriller genres to maximize returns on production investment, prioritizing Action & Adventure genres for overall best profitability, and adhering to a production budget range of $149,880,980.81 to $168,523,019.19. With these insights in hand, Computing Vision is well-prepared to embark on a successful journey and thrive in the market. 
 
 
-#### Presentation Slide (./Presentation.pdf)
+#### Presentation Slide (https://github.com/ml-disciple/semester_1_capstone/blob/Presentation.pdf) 
 
 
 
