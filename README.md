@@ -54,7 +54,7 @@ Computing Vision recognizes the thriving landscape of original content creation 
 ![median_POPB](https://raw.githubusercontent.com/ml-disciple/semester_1_capstone/main/images/PB_distribution.svg)
 
 #### Top Combined Genres Profit 
-![top_profitting_genre](https://github.com/ml-disciple/semester_1_capstone/blob/main/images/top_profitting_genre.png)
+![top_profitting_genre](https://github.com/ml-disciple/semester_1_capstone/blob/main/images/ProfitBillions.svg)
 
 
 ## Statistical Communication
