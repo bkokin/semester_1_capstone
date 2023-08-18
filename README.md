@@ -63,10 +63,10 @@ Computing Vision recognizes the thriving landscape of original content creation 
     * The correlation between worldwide profit and production budget yielded a result of 68%. This is considered a strong positive correlation indicating that as the production budget increases, so does the profit.
     
 2. Obtaining and interpreting the confidence interval of the top genres 
-    * A confidence interval for the production budget of top movie genres was computed with a confidence level of 95%. The confidence interval resulted in bounds of $149880980.81 and $168523019.19.
+    * A confidence interval for the production budget of top movie genres was computed with a confidence level of 95%. The confidence interval resulted in bounds of $149,880,980.81 and $168,523,019.19.
     
 3. Interpretation of Confidence Interval
-    * The confidence interval indicates that we can be 95% confident that the true mean of the top profiting movie genres is contained within the range of $149880980.81 and $168523019.19.
+    * The confidence interval indicates that we can be 95% confident that the true mean of the top profiting movie genres is contained within the range of $149,880,980.81 and $168,523,019.19.
 
 ## Conclusion
 
@@ -81,13 +81,13 @@ Computing Vision recognizes the thriving landscape of original content creation 
   * Rationale: Exhibits the potential to generate the highest overall profits.
 
 3. Optimal Production Budget Strategy: 
-  * Recommendation: Maintain production budgets within the range of $149880980.81 to $168523019.19. 
+  * Recommendation: Maintain production budgets within the range of $149,880,980.81 to $168,523,019.19. 
   * Rationale: The budget range balances investment in quality production with ensuring favorable returns. 
 
 
 #### Summary
 
-In summary, our endeavor has strategically positioned Computing Vision for a successful entry into the competitive film industry. We have unraveled key patterns and preferences that pave the way for informed decision-making. The culmination of our efforts is encapsulated in three actionable recommendations: focusing on Horror & Thriller genres to maximize returns on production investment, prioritizing Action & Adventure genres for overall best profitability, and adhering to a production budget range of $149880980.81 to $168523019.19. With these insights in hand, Computing Vision is well-prepared to embark on a successful journey and thrive in the market. 
+In summary, our endeavor has strategically positioned Computing Vision for a successful entry into the competitive film industry. We have unraveled key patterns and preferences that pave the way for informed decision-making. The culmination of our efforts is encapsulated in three actionable recommendations: focusing on Horror & Thriller genres to maximize returns on production investment, prioritizing Action & Adventure genres for overall best profitability, and adhering to a production budget range of $149,880,980.81 to $168,523,019.19. With these insights in hand, Computing Vision is well-prepared to embark on a successful journey and thrive in the market. 
 
 
 
