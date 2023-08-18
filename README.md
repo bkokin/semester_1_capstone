@@ -50,8 +50,11 @@ Computing Vision recognizes the thriving landscape of original content creation 
 #### Top Genres for Profit Over Production Budget (POPB)
 ![top_POPB](https://raw.githubusercontent.com/ml-disciple/semester_1_capstone/main/images/top_POPB.svg)
 
+#### Highest Median Profit Over Production Budget (POPB)
+![highest_median_POPB](https://raw.githubusercontent.com/ml-disciple/semester_1_capstone/main/images/median_POPB.svg)
+
 #### Production Budget by Genre
-![median_POPB](https://raw.githubusercontent.com/ml-disciple/semester_1_capstone/main/images/PB_distribution.svg)
+![production_budget_distribution](https://raw.githubusercontent.com/ml-disciple/semester_1_capstone/main/images/PB_distribution.svg)
 
 #### Top Combined Genres Profit 
 ![top_profitting_genre](https://github.com/ml-disciple/semester_1_capstone/blob/main/images/ProfitBillions.svg)
