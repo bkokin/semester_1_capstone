@@ -28,7 +28,7 @@ Computing Vision recognizes the thriving landscape of original content creation 
 * [IMDB](https://www.imdb.com/)
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
-* PDF Link to PPT Here 
+* ![presentation_slide](https://github.com/ml-disciple/semester_1_capstone/blob/main/Presentation.pdf)
 
  1.Internet Movie Database (IMDB)
   -The IMDB houses an expansive repository of titles, encompassing films, TV series, video games, and streaming content. The SQL dataset encompasses facets ranging from directors and writers to ratings and movie specifics, including runtime and actors. 
